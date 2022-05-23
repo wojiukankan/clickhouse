@@ -1,5 +1,5 @@
 {
-    "name": "bashkarev/clickhouse",
+    "name": "wojiukankan/clickhouse",
     "description": "Driver yii2 for column-oriented database ClickHouse.",
     "keywords": ["yii2", "clickhouse"],
     "type": "yii2-extension",
